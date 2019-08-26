@@ -11,12 +11,8 @@ public class SUM234 {
         if (word.length() < 4) {
             System.out.println("Длина слова должна составлять не менее 5 символов.");
         } else {
-            System.out.println("Вы ввели слово " + word);
-
-
-            System.out.println(Arrays.asList(word.charAt(2) + word.charAt(3) + word.charAt(4)));
-
-
+           // System.out.println("Вы ввели слово " + word);
         }
+        System.out.println(String.valueOf(word.charAt(2) + word.charAt(3) + word.charAt(4)));
     }
 }
