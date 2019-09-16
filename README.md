@@ -4,3 +4,7 @@
 OCA - 101p. - 119p.
 
 ## hw3 - Сборник задач Златопольского - 11.7., 11.19. OCA 119p-129p
+
+## List - ArrayList, LinkedList, Set OCP 124- 134 p.
+
+## OCA 172 - 278
