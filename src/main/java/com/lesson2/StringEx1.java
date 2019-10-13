@@ -36,8 +36,8 @@ public class StringEx1 {
             System.out.print(dst2[i]);
         }
 
-        System.out.println();
-        System.out.println(Arrays.toString(dst2));
-        System.out.println(dst2);
+//        System.out.println();
+//        System.out.println(Arrays.toString(dst2));
+//        System.out.println(dst2);
     }
 }
